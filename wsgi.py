@@ -1,0 +1,1 @@
+from ircc import app as application
